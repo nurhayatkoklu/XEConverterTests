@@ -80,4 +80,4 @@ Screenshots
 Screenshots of dropdown listings are stored in the ScreenShots folder for validation.
 
 Extent Report
-View the detailed HTML report of the final test executions located in \bin\Debug\net6.0\TestResults.html
+Framework also have an integrated Extent Report genetor.
