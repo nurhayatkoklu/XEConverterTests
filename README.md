@@ -80,4 +80,4 @@ Screenshots
 Screenshots of dropdown listings are stored in the ScreenShots folder for validation.
 
 Extent Report
-Framework also have an integrated Extent Report genetor.
+Framework also have an integrated Extent Report generator.
